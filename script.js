@@ -1,5 +1,5 @@
-let correctEmail = "user@example.com";
-let correctPassword = "1234";
+let correctEmail = "user@gmail.com";
+let correctPassword = "12345";
 
 let email = prompt("Enter your email:");
 
